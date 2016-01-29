@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Projekty\Android\BasicContactables\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\Projekty\Android\BasicContactables\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-1a37a1501ff54de3e25d89f90d31e8bbc59659af.jar" />
+    </item>
+    <item
+        jar="F:\Projekty\Android\BasicContactables\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\Projekty\Android\BasicContactables\Application\build\intermediates\pre-dexed\debug\classes-3580a273506b407afe9ec9d71828c6227590c975.jar" />
+    </item>
+    <item
+        jar="F:\Projekty\Android\BasicContactables\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="F:\Projekty\Android\BasicContactables\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-57d97e9c4afeb972a320feea4666521f85c34ae7.jar" />
+    </item>
+    <item
+        jar="E:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="F:\Projekty\Android\BasicContactables\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-683afbd90e943ad91f37c944e714728dd1935607.jar" />
+    </item>
+    <item
+        jar="F:\Projekty\Android\BasicContactables\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="F:\Projekty\Android\BasicContactables\Application\build\intermediates\pre-dexed\debug\classes-07d7d2a2d431bf2506f9ea4082186e06d7ca1f06.jar" />
+    </item>
+    <item
+        jar="F:\Projekty\Android\BasicContactables\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="F:\Projekty\Android\BasicContactables\Application\build\intermediates\pre-dexed\debug\classes-2c2c358728136669ce2e6a0d5528616adb091bec.jar" />
+    </item>
+
+</items>
